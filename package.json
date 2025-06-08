@@ -1,0 +1,21 @@
+{
+  "name": "profit-loss-tracker",
+  "version": "1.0.0",
+  "description": "This is my first project made with React and tailwind, The backend would use mongoose as the database and frontend would be built with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Great-kiola/Profit-loss-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Great-kiola/Profit-loss-tracker/issues"
+  },
+  "homepage": "https://github.com/Great-kiola/Profit-loss-tracker#readme"
+}
